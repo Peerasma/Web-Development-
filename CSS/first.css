@@ -1,0 +1,12 @@
+h1{
+    color: rgb(245, 173, 17);
+    font-size: 2em;
+    margin: right 1px;;
+    text-align:center;
+    text-decoration: underline;
+    padding-left: 1%;
+}
+
+table{
+    text-decoration-color: rgb(8, 17, 113);
+}
